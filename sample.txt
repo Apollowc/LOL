@@ -1,0 +1,1237 @@
+{"id":45607666,"name":"KelvinD","profileIconId":663,"summonerLevel":30,"revisionDate":1404521196000}
+Array ( [id] => 45607666 [name] => KelvinD [profileIconId] => 663 [summonerLevel] => 30 [revisionDate] => 1404521196000 )
+Array
+(
+    [summonerId] => 45607666
+    [games] => Array
+        (
+            [0] => Array
+                (
+                    [gameId] => 1442922919
+                    [invalid] => 
+                    [gameMode] => CLASSIC
+                    [gameType] => MATCHED_GAME
+                    [subType] => BOT
+                    [mapId] => 1
+                    [teamId] => 100
+                    [championId] => 117
+                    [spell1] => 4
+                    [spell2] => 14
+                    [level] => 30
+                    [ipEarned] => 203
+                    [createDate] => 1404546396273
+                    [fellowPlayers] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [summonerId] => 52875213
+                                    [teamId] => 100
+                                    [championId] => 80
+                                )
+
+                            [1] => Array
+                                (
+                                    [summonerId] => 33079655
+                                    [teamId] => 100
+                                    [championId] => 17
+                                )
+
+                            [2] => Array
+                                (
+                                    [summonerId] => 53368107
+                                    [teamId] => 100
+                                    [championId] => 31
+                                )
+
+                            [3] => Array
+                                (
+                                    [summonerId] => 24404121
+                                    [teamId] => 100
+                                    [championId] => 64
+                                )
+
+                        )
+
+                    [stats] => Array
+                        (
+                            [level] => 14
+                            [goldEarned] => 9419
+                            [numDeaths] => 2
+                            [barracksKilled] => 1
+                            [turretsKilled] => 1
+                            [minionsKilled] => 101
+                            [championsKilled] => 4
+                            [goldSpent] => 7115
+                            [totalDamageDealt] => 67622
+                            [totalDamageTaken] => 11027
+                            [killingSprees] => 2
+                            [largestKillingSpree] => 2
+                            [team] => 100
+                            [win] => 1
+                            [largestMultiKill] => 1
+                            [physicalDamageDealtPlayer] => 13906
+                            [magicDamageDealtPlayer] => 52735
+                            [physicalDamageTaken] => 7996
+                            [magicDamageTaken] => 3030
+                            [timePlayed] => 1538
+                            [totalHeal] => 338
+                            [totalUnitsHealed] => 1
+                            [assists] => 8
+                            [item0] => 1056
+                            [item1] => 2003
+                            [item2] => 3089
+                            [item3] => 1001
+                            [item4] => 3092
+                            [item6] => 3340
+                            [magicDamageDealtToChampions] => 11496
+                            [physicalDamageDealtToChampions] => 2242
+                            [totalDamageDealtToChampions] => 14719
+                            [trueDamageDealtPlayer] => 980
+                            [trueDamageDealtToChampions] => 980
+                            [wardPlaced] => 3
+                            [totalTimeCrowdControlDealt] => 429
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [gameId] => 1442880241
+                    [invalid] => 
+                    [gameMode] => CLASSIC
+                    [gameType] => MATCHED_GAME
+                    [subType] => NORMAL
+                    [mapId] => 1
+                    [teamId] => 200
+                    [championId] => 10
+                    [spell1] => 4
+                    [spell2] => 14
+                    [level] => 30
+                    [ipEarned] => 94
+                    [createDate] => 1404543517445
+                    [fellowPlayers] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [summonerId] => 35428734
+                                    [teamId] => 200
+                                    [championId] => 58
+                                )
+
+                            [1] => Array
+                                (
+                                    [summonerId] => 31680147
+                                    [teamId] => 100
+                                    [championId] => 25
+                                )
+
+                            [2] => Array
+                                (
+                                    [summonerId] => 51810839
+                                    [teamId] => 200
+                                    [championId] => 45
+                                )
+
+                            [3] => Array
+                                (
+                                    [summonerId] => 31024346
+                                    [teamId] => 200
+                                    [championId] => 107
+                                )
+
+                            [4] => Array
+                                (
+                                    [summonerId] => 46390345
+                                    [teamId] => 100
+                                    [championId] => 126
+                                )
+
+                            [5] => Array
+                                (
+                                    [summonerId] => 39821644
+                                    [teamId] => 100
+                                    [championId] => 134
+                                )
+
+                            [6] => Array
+                                (
+                                    [summonerId] => 53770064
+                                    [teamId] => 100
+                                    [championId] => 32
+                                )
+
+                            [7] => Array
+                                (
+                                    [summonerId] => 54844059
+                                    [teamId] => 200
+                                    [championId] => 67
+                                )
+
+                            [8] => Array
+                                (
+                                    [summonerId] => 46389393
+                                    [teamId] => 100
+                                    [championId] => 236
+                                )
+
+                        )
+
+                    [stats] => Array
+                        (
+                            [level] => 18
+                            [goldEarned] => 13647
+                            [numDeaths] => 11
+                            [minionsKilled] => 50
+                            [championsKilled] => 4
+                            [goldSpent] => 15090
+                            [totalDamageDealt] => 94269
+                            [totalDamageTaken] => 54033
+                            [team] => 200
+                            [win] => 
+                            [neutralMinionsKilled] => 10
+                            [largestMultiKill] => 1
+                            [physicalDamageDealtPlayer] => 23138
+                            [magicDamageDealtPlayer] => 69040
+                            [physicalDamageTaken] => 30086
+                            [magicDamageTaken] => 23354
+                            [timePlayed] => 3637
+                            [totalHeal] => 25304
+                            [totalUnitsHealed] => 5
+                            [assists] => 11
+                            [item0] => 3191
+                            [item1] => 3089
+                            [item2] => 1058
+                            [item3] => 2049
+                            [item4] => 3255
+                            [item5] => 3115
+                            [item6] => 3341
+                            [sightWardsBought] => 3
+                            [visionWardsBought] => 2
+                            [magicDamageDealtToChampions] => 10352
+                            [physicalDamageDealtToChampions] => 2904
+                            [totalDamageDealtToChampions] => 15347
+                            [trueDamageDealtPlayer] => 2090
+                            [trueDamageDealtToChampions] => 2090
+                            [trueDamageTaken] => 592
+                            [wardPlaced] => 30
+                            [neutralMinionsKilledEnemyJungle] => 1
+                            [neutralMinionsKilledYourJungle] => 9
+                            [totalTimeCrowdControlDealt] => 172
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [gameId] => 1442849972
+                    [invalid] => 
+                    [gameMode] => CLASSIC
+                    [gameType] => MATCHED_GAME
+                    [subType] => NORMAL
+                    [mapId] => 1
+                    [teamId] => 200
+                    [championId] => 121
+                    [spell1] => 4
+                    [spell2] => 11
+                    [level] => 30
+                    [ipEarned] => 54
+                    [createDate] => 1404539268427
+                    [fellowPlayers] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [summonerId] => 35791736
+                                    [teamId] => 100
+                                    [championId] => 101
+                                )
+
+                            [1] => Array
+                                (
+                                    [summonerId] => 32464497
+                                    [teamId] => 200
+                                    [championId] => 51
+                                )
+
+                            [2] => Array
+                                (
+                                    [summonerId] => 53799534
+                                    [teamId] => 100
+                                    [championId] => 126
+                                )
+
+                            [3] => Array
+                                (
+                                    [summonerId] => 40793882
+                                    [teamId] => 200
+                                    [championId] => 117
+                                )
+
+                            [4] => Array
+                                (
+                                    [summonerId] => 50671136
+                                    [teamId] => 100
+                                    [championId] => 25
+                                )
+
+                            [5] => Array
+                                (
+                                    [summonerId] => 31914928
+                                    [teamId] => 200
+                                    [championId] => 43
+                                )
+
+                            [6] => Array
+                                (
+                                    [summonerId] => 40172619
+                                    [teamId] => 100
+                                    [championId] => 56
+                                )
+
+                            [7] => Array
+                                (
+                                    [summonerId] => 51810839
+                                    [teamId] => 200
+                                    [championId] => 27
+                                )
+
+                            [8] => Array
+                                (
+                                    [summonerId] => 49880829
+                                    [teamId] => 100
+                                    [championId] => 154
+                                )
+
+                        )
+
+                    [stats] => Array
+                        (
+                            [level] => 12
+                            [goldEarned] => 6549
+                            [numDeaths] => 3
+                            [minionsKilled] => 10
+                            [championsKilled] => 2
+                            [goldSpent] => 7037
+                            [totalDamageDealt] => 79545
+                            [totalDamageTaken] => 17171
+                            [killingSprees] => 1
+                            [largestKillingSpree] => 2
+                            [team] => 200
+                            [win] => 
+                            [neutralMinionsKilled] => 56
+                            [largestMultiKill] => 1
+                            [physicalDamageDealtPlayer] => 68187
+                            [magicDamageDealtPlayer] => 839
+                            [physicalDamageTaken] => 13357
+                            [magicDamageTaken] => 3813
+                            [timePlayed] => 1662
+                            [totalHeal] => 5224
+                            [totalUnitsHealed] => 1
+                            [assists] => 5
+                            [item0] => 3209
+                            [item1] => 2003
+                            [item2] => 3047
+                            [item3] => 3134
+                            [item4] => 1036
+                            [item5] => 1037
+                            [item6] => 3341
+                            [magicDamageDealtToChampions] => 719
+                            [physicalDamageDealtToChampions] => 7650
+                            [totalDamageDealtToChampions] => 9169
+                            [trueDamageDealtPlayer] => 10518
+                            [trueDamageDealtToChampions] => 799
+                            [wardKilled] => 1
+                            [wardPlaced] => 1
+                            [neutralMinionsKilledEnemyJungle] => 3
+                            [neutralMinionsKilledYourJungle] => 53
+                            [totalTimeCrowdControlDealt] => 407
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [gameId] => 1442821394
+                    [invalid] => 
+                    [gameMode] => CLASSIC
+                    [gameType] => MATCHED_GAME
+                    [subType] => NORMAL
+                    [mapId] => 1
+                    [teamId] => 200
+                    [championId] => 10
+                    [spell1] => 4
+                    [spell2] => 11
+                    [level] => 30
+                    [ipEarned] => 51
+                    [createDate] => 1404536472972
+                    [fellowPlayers] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [summonerId] => 24056677
+                                    [teamId] => 200
+                                    [championId] => 157
+                                )
+
+                            [1] => Array
+                                (
+                                    [summonerId] => 45418263
+                                    [teamId] => 200
+                                    [championId] => 1
+                                )
+
+                            [2] => Array
+                                (
+                                    [summonerId] => 38981123
+                                    [teamId] => 200
+                                    [championId] => 80
+                                )
+
+                            [3] => Array
+                                (
+                                    [summonerId] => 52995101
+                                    [teamId] => 100
+                                    [championId] => 5
+                                )
+
+                            [4] => Array
+                                (
+                                    [summonerId] => 51104761
+                                    [teamId] => 100
+                                    [championId] => 82
+                                )
+
+                            [5] => Array
+                                (
+                                    [summonerId] => 51810839
+                                    [teamId] => 200
+                                    [championId] => 236
+                                )
+
+                            [6] => Array
+                                (
+                                    [summonerId] => 39906311
+                                    [teamId] => 100
+                                    [championId] => 119
+                                )
+
+                            [7] => Array
+                                (
+                                    [summonerId] => 34173578
+                                    [teamId] => 100
+                                    [championId] => 105
+                                )
+
+                            [8] => Array
+                                (
+                                    [summonerId] => 47184848
+                                    [teamId] => 100
+                                    [championId] => 25
+                                )
+
+                        )
+
+                    [stats] => Array
+                        (
+                            [level] => 10
+                            [goldEarned] => 3913
+                            [numDeaths] => 4
+                            [minionsKilled] => 39
+                            [goldSpent] => 4565
+                            [totalDamageDealt] => 33149
+                            [totalDamageTaken] => 11850
+                            [team] => 200
+                            [win] => 
+                            [neutralMinionsKilled] => 16
+                            [physicalDamageDealtPlayer] => 10895
+                            [magicDamageDealtPlayer] => 19353
+                            [physicalDamageTaken] => 7281
+                            [magicDamageTaken] => 4420
+                            [timePlayed] => 1227
+                            [totalHeal] => 1815
+                            [totalUnitsHealed] => 3
+                            [assists] => 1
+                            [item0] => 1080
+                            [item1] => 2003
+                            [item2] => 3020
+                            [item3] => 3108
+                            [item4] => 1056
+                            [item6] => 3340
+                            [magicDamageDealtToChampions] => 2852
+                            [physicalDamageDealtToChampions] => 948
+                            [totalDamageDealtToChampions] => 3800
+                            [trueDamageDealtPlayer] => 2900
+                            [trueDamageTaken] => 148
+                            [wardPlaced] => 5
+                            [neutralMinionsKilledYourJungle] => 16
+                            [totalTimeCrowdControlDealt] => 110
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [gameId] => 1441954067
+                    [invalid] => 
+                    [gameMode] => CLASSIC
+                    [gameType] => MATCHED_GAME
+                    [subType] => NORMAL
+                    [mapId] => 1
+                    [teamId] => 200
+                    [championId] => 92
+                    [spell1] => 4
+                    [spell2] => 14
+                    [level] => 30
+                    [ipEarned] => 94
+                    [createDate] => 1404461585563
+                    [fellowPlayers] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [summonerId] => 34523752
+                                    [teamId] => 200
+                                    [championId] => 254
+                                )
+
+                            [1] => Array
+                                (
+                                    [summonerId] => 47656120
+                                    [teamId] => 100
+                                    [championId] => 103
+                                )
+
+                            [2] => Array
+                                (
+                                    [summonerId] => 51477992
+                                    [teamId] => 100
+                                    [championId] => 28
+                                )
+
+                            [3] => Array
+                                (
+                                    [summonerId] => 51069810
+                                    [teamId] => 200
+                                    [championId] => 117
+                                )
+
+                            [4] => Array
+                                (
+                                    [summonerId] => 51810839
+                                    [teamId] => 200
+                                    [championId] => 236
+                                )
+
+                            [5] => Array
+                                (
+                                    [summonerId] => 50935619
+                                    [teamId] => 100
+                                    [championId] => 201
+                                )
+
+                            [6] => Array
+                                (
+                                    [summonerId] => 20133472
+                                    [teamId] => 200
+                                    [championId] => 54
+                                )
+
+                            [7] => Array
+                                (
+                                    [summonerId] => 50778654
+                                    [teamId] => 100
+                                    [championId] => 122
+                                )
+
+                            [8] => Array
+                                (
+                                    [summonerId] => 45132354
+                                    [teamId] => 100
+                                    [championId] => 15
+                                )
+
+                        )
+
+                    [stats] => Array
+                        (
+                            [level] => 18
+                            [goldEarned] => 16256
+                            [numDeaths] => 16
+                            [barracksKilled] => 1
+                            [minionsKilled] => 85
+                            [championsKilled] => 13
+                            [goldSpent] => 17235
+                            [totalDamageDealt] => 137449
+                            [totalDamageTaken] => 49414
+                            [killingSprees] => 4
+                            [largestKillingSpree] => 3
+                            [team] => 200
+                            [win] => 
+                            [neutralMinionsKilled] => 12
+                            [largestMultiKill] => 1
+                            [physicalDamageDealtPlayer] => 134711
+                            [physicalDamageTaken] => 30975
+                            [magicDamageTaken] => 15620
+                            [timePlayed] => 3506
+                            [totalHeal] => 2716
+                            [totalUnitsHealed] => 1
+                            [assists] => 21
+                            [item0] => 3071
+                            [item1] => 3035
+                            [item2] => 3074
+                            [item3] => 3265
+                            [item4] => 1037
+                            [item5] => 3026
+                            [item6] => 3340
+                            [physicalDamageDealtToChampions] => 34378
+                            [totalDamageDealtToChampions] => 37116
+                            [trueDamageDealtPlayer] => 2738
+                            [trueDamageDealtToChampions] => 2738
+                            [trueDamageTaken] => 2818
+                            [wardPlaced] => 13
+                            [neutralMinionsKilledEnemyJungle] => 3
+                            [neutralMinionsKilledYourJungle] => 9
+                            [totalTimeCrowdControlDealt] => 107
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [gameId] => 1441907435
+                    [invalid] => 
+                    [gameMode] => CLASSIC
+                    [gameType] => MATCHED_GAME
+                    [subType] => NORMAL
+                    [mapId] => 1
+                    [teamId] => 200
+                    [championId] => 121
+                    [spell1] => 4
+                    [spell2] => 11
+                    [level] => 30
+                    [ipEarned] => 72
+                    [createDate] => 1404457354520
+                    [fellowPlayers] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [summonerId] => 41696793
+                                    [teamId] => 200
+                                    [championId] => 18
+                                )
+
+                            [1] => Array
+                                (
+                                    [summonerId] => 38974511
+                                    [teamId] => 100
+                                    [championId] => 57
+                                )
+
+                            [2] => Array
+                                (
+                                    [summonerId] => 29450870
+                                    [teamId] => 100
+                                    [championId] => 115
+                                )
+
+                            [3] => Array
+                                (
+                                    [summonerId] => 49311545
+                                    [teamId] => 200
+                                    [championId] => 103
+                                )
+
+                            [4] => Array
+                                (
+                                    [summonerId] => 51810839
+                                    [teamId] => 200
+                                    [championId] => 53
+                                )
+
+                            [5] => Array
+                                (
+                                    [summonerId] => 37798094
+                                    [teamId] => 100
+                                    [championId] => 67
+                                )
+
+                            [6] => Array
+                                (
+                                    [summonerId] => 21394245
+                                    [teamId] => 200
+                                    [championId] => 17
+                                )
+
+                            [7] => Array
+                                (
+                                    [summonerId] => 29524938
+                                    [teamId] => 100
+                                    [championId] => 89
+                                )
+
+                            [8] => Array
+                                (
+                                    [summonerId] => 53880661
+                                    [teamId] => 100
+                                    [championId] => 80
+                                )
+
+                        )
+
+                    [stats] => Array
+                        (
+                            [level] => 17
+                            [goldEarned] => 14510
+                            [numDeaths] => 5
+                            [minionsKilled] => 70
+                            [championsKilled] => 11
+                            [goldSpent] => 13205
+                            [totalDamageDealt] => 148330
+                            [totalDamageTaken] => 31431
+                            [doubleKills] => 1
+                            [killingSprees] => 3
+                            [largestKillingSpree] => 5
+                            [team] => 200
+                            [win] => 
+                            [neutralMinionsKilled] => 70
+                            [largestMultiKill] => 2
+                            [physicalDamageDealtPlayer] => 128617
+                            [magicDamageDealtPlayer] => 1705
+                            [physicalDamageTaken] => 18310
+                            [magicDamageTaken] => 12530
+                            [timePlayed] => 2411
+                            [totalHeal] => 8170
+                            [totalUnitsHealed] => 1
+                            [assists] => 9
+                            [item0] => 3209
+                            [item1] => 3035
+                            [item2] => 3074
+                            [item3] => 3071
+                            [item4] => 3047
+                            [item5] => 1031
+                            [item6] => 3341
+                            [magicDamageDealtToChampions] => 1705
+                            [physicalDamageDealtToChampions] => 16358
+                            [totalDamageDealtToChampions] => 19723
+                            [trueDamageDealtPlayer] => 18007
+                            [trueDamageDealtToChampions] => 1659
+                            [trueDamageTaken] => 590
+                            [wardPlaced] => 1
+                            [neutralMinionsKilledEnemyJungle] => 11
+                            [neutralMinionsKilledYourJungle] => 59
+                            [totalTimeCrowdControlDealt] => 590
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [gameId] => 1441878297
+                    [invalid] => 
+                    [gameMode] => CLASSIC
+                    [gameType] => MATCHED_GAME
+                    [subType] => NORMAL
+                    [mapId] => 1
+                    [teamId] => 100
+                    [championId] => 15
+                    [spell1] => 4
+                    [spell2] => 14
+                    [level] => 30
+                    [ipEarned] => 76
+                    [createDate] => 1404454278115
+                    [fellowPlayers] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [summonerId] => 46066268
+                                    [teamId] => 200
+                                    [championId] => 60
+                                )
+
+                            [1] => Array
+                                (
+                                    [summonerId] => 47003810
+                                    [teamId] => 100
+                                    [championId] => 58
+                                )
+
+                            [2] => Array
+                                (
+                                    [summonerId] => 50355698
+                                    [teamId] => 200
+                                    [championId] => 18
+                                )
+
+                            [3] => Array
+                                (
+                                    [summonerId] => 48334433
+                                    [teamId] => 200
+                                    [championId] => 77
+                                )
+
+                            [4] => Array
+                                (
+                                    [summonerId] => 45969839
+                                    [teamId] => 200
+                                    [championId] => 38
+                                )
+
+                            [5] => Array
+                                (
+                                    [summonerId] => 49311545
+                                    [teamId] => 100
+                                    [championId] => 102
+                                )
+
+                            [6] => Array
+                                (
+                                    [summonerId] => 51810839
+                                    [teamId] => 100
+                                    [championId] => 53
+                                )
+
+                            [7] => Array
+                                (
+                                    [summonerId] => 21394245
+                                    [teamId] => 100
+                                    [championId] => 105
+                                )
+
+                            [8] => Array
+                                (
+                                    [summonerId] => 50521368
+                                    [teamId] => 200
+                                    [championId] => 201
+                                )
+
+                        )
+
+                    [stats] => Array
+                        (
+                            [level] => 12
+                            [goldEarned] => 8039
+                            [numDeaths] => 7
+                            [turretsKilled] => 1
+                            [minionsKilled] => 79
+                            [championsKilled] => 5
+                            [goldSpent] => 9240
+                            [totalDamageDealt] => 65634
+                            [totalDamageTaken] => 11809
+                            [killingSprees] => 1
+                            [largestKillingSpree] => 2
+                            [team] => 100
+                            [win] => 1
+                            [neutralMinionsKilled] => 6
+                            [largestMultiKill] => 1
+                            [physicalDamageDealtPlayer] => 64728
+                            [physicalDamageTaken] => 7019
+                            [magicDamageTaken] => 4789
+                            [timePlayed] => 1395
+                            [totalHeal] => 270
+                            [totalUnitsHealed] => 1
+                            [assists] => 8
+                            [item0] => 1055
+                            [item1] => 2003
+                            [item2] => 3006
+                            [item3] => 3072
+                            [item4] => 3035
+                            [item6] => 3340
+                            [physicalDamageDealtToChampions] => 13626
+                            [totalDamageDealtToChampions] => 14532
+                            [trueDamageDealtPlayer] => 906
+                            [trueDamageDealtToChampions] => 906
+                            [wardPlaced] => 5
+                            [neutralMinionsKilledEnemyJungle] => 4
+                            [neutralMinionsKilledYourJungle] => 2
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [gameId] => 1441819612
+                    [invalid] => 
+                    [gameMode] => CLASSIC
+                    [gameType] => MATCHED_GAME
+                    [subType] => NORMAL
+                    [mapId] => 1
+                    [teamId] => 100
+                    [championId] => 5
+                    [spell1] => 4
+                    [spell2] => 11
+                    [level] => 30
+                    [ipEarned] => 77
+                    [createDate] => 1404452270997
+                    [fellowPlayers] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [summonerId] => 40909772
+                                    [teamId] => 100
+                                    [championId] => 40
+                                )
+
+                            [1] => Array
+                                (
+                                    [summonerId] => 32622102
+                                    [teamId] => 100
+                                    [championId] => 98
+                                )
+
+                            [2] => Array
+                                (
+                                    [summonerId] => 51810839
+                                    [teamId] => 100
+                                    [championId] => 45
+                                )
+
+                            [3] => Array
+                                (
+                                    [summonerId] => 42023386
+                                    [teamId] => 200
+                                    [championId] => 99
+                                )
+
+                            [4] => Array
+                                (
+                                    [summonerId] => 35780219
+                                    [teamId] => 200
+                                    [championId] => 58
+                                )
+
+                            [5] => Array
+                                (
+                                    [summonerId] => 48471468
+                                    [teamId] => 200
+                                    [championId] => 21
+                                )
+
+                            [6] => Array
+                                (
+                                    [summonerId] => 25157036
+                                    [teamId] => 200
+                                    [championId] => 11
+                                )
+
+                            [7] => Array
+                                (
+                                    [summonerId] => 49115526
+                                    [teamId] => 100
+                                    [championId] => 236
+                                )
+
+                            [8] => Array
+                                (
+                                    [summonerId] => 44385192
+                                    [teamId] => 200
+                                    [championId] => 238
+                                )
+
+                        )
+
+                    [stats] => Array
+                        (
+                            [level] => 18
+                            [goldEarned] => 17738
+                            [numDeaths] => 11
+                            [barracksKilled] => 1
+                            [turretsKilled] => 1
+                            [minionsKilled] => 95
+                            [championsKilled] => 17
+                            [goldSpent] => 19433
+                            [totalDamageDealt] => 201214
+                            [totalDamageTaken] => 48043
+                            [doubleKills] => 3
+                            [tripleKills] => 1
+                            [quadraKills] => 1
+                            [killingSprees] => 5
+                            [largestKillingSpree] => 4
+                            [team] => 100
+                            [win] => 
+                            [neutralMinionsKilled] => 67
+                            [largestMultiKill] => 4
+                            [physicalDamageDealtPlayer] => 132346
+                            [magicDamageDealtPlayer] => 54800
+                            [physicalDamageTaken] => 37072
+                            [magicDamageTaken] => 6903
+                            [largestCriticalStrike] => 792
+                            [timePlayed] => 2609
+                            [totalHeal] => 11090
+                            [totalUnitsHealed] => 1
+                            [assists] => 18
+                            [item0] => 3068
+                            [item1] => 3142
+                            [item2] => 3078
+                            [item3] => 3117
+                            [item4] => 3071
+                            [item5] => 3143
+                            [item6] => 3341
+                            [magicDamageDealtToChampions] => 6670
+                            [physicalDamageDealtToChampions] => 33505
+                            [totalDamageDealtToChampions] => 41302
+                            [trueDamageDealtPlayer] => 14068
+                            [trueDamageDealtToChampions] => 1126
+                            [trueDamageTaken] => 4067
+                            [wardKilled] => 3
+                            [wardPlaced] => 5
+                            [neutralMinionsKilledEnemyJungle] => 4
+                            [neutralMinionsKilledYourJungle] => 63
+                            [totalTimeCrowdControlDealt] => 960
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [gameId] => 1441808966
+                    [invalid] => 
+                    [gameMode] => CLASSIC
+                    [gameType] => MATCHED_GAME
+                    [subType] => NORMAL
+                    [mapId] => 1
+                    [teamId] => 100
+                    [championId] => 10
+                    [spell1] => 4
+                    [spell2] => 14
+                    [level] => 30
+                    [ipEarned] => 226
+                    [createDate] => 1404448945791
+                    [fellowPlayers] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [summonerId] => 45281385
+                                    [teamId] => 200
+                                    [championId] => 119
+                                )
+
+                            [1] => Array
+                                (
+                                    [summonerId] => 31610991
+                                    [teamId] => 100
+                                    [championId] => 51
+                                )
+
+                            [2] => Array
+                                (
+                                    [summonerId] => 26651214
+                                    [teamId] => 100
+                                    [championId] => 28
+                                )
+
+                            [3] => Array
+                                (
+                                    [summonerId] => 50125441
+                                    [teamId] => 200
+                                    [championId] => 25
+                                )
+
+                            [4] => Array
+                                (
+                                    [summonerId] => 41250082
+                                    [teamId] => 200
+                                    [championId] => 126
+                                )
+
+                            [5] => Array
+                                (
+                                    [summonerId] => 51810839
+                                    [teamId] => 100
+                                    [championId] => 53
+                                )
+
+                            [6] => Array
+                                (
+                                    [summonerId] => 22323312
+                                    [teamId] => 100
+                                    [championId] => 27
+                                )
+
+                            [7] => Array
+                                (
+                                    [summonerId] => 47777624
+                                    [teamId] => 200
+                                    [championId] => 35
+                                )
+
+                            [8] => Array
+                                (
+                                    [summonerId] => 52802197
+                                    [teamId] => 200
+                                    [championId] => 84
+                                )
+
+                        )
+
+                    [stats] => Array
+                        (
+                            [level] => 13
+                            [goldEarned] => 8309
+                            [numDeaths] => 3
+                            [turretsKilled] => 1
+                            [minionsKilled] => 106
+                            [championsKilled] => 5
+                            [goldSpent] => 8565
+                            [totalDamageDealt] => 57002
+                            [totalDamageTaken] => 12589
+                            [killingSprees] => 1
+                            [largestKillingSpree] => 4
+                            [team] => 100
+                            [win] => 1
+                            [largestMultiKill] => 1
+                            [physicalDamageDealtPlayer] => 20006
+                            [magicDamageDealtPlayer] => 36439
+                            [physicalDamageTaken] => 7013
+                            [magicDamageTaken] => 5340
+                            [timePlayed] => 1406
+                            [totalHeal] => 7278
+                            [totalUnitsHealed] => 5
+                            [assists] => 8
+                            [item0] => 1056
+                            [item1] => 3115
+                            [item2] => 3089
+                            [item3] => 1001
+                            [item4] => 1056
+                            [item5] => 1056
+                            [item6] => 3340
+                            [magicDamageDealtToChampions] => 5499
+                            [physicalDamageDealtToChampions] => 2192
+                            [totalDamageDealtToChampions] => 8247
+                            [trueDamageDealtPlayer] => 556
+                            [trueDamageDealtToChampions] => 556
+                            [trueDamageTaken] => 235
+                            [wardPlaced] => 2
+                            [totalTimeCrowdControlDealt] => 93
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [gameId] => 1441777618
+                    [invalid] => 
+                    [gameMode] => CLASSIC
+                    [gameType] => MATCHED_GAME
+                    [subType] => NORMAL
+                    [mapId] => 1
+                    [teamId] => 200
+                    [championId] => 10
+                    [spell1] => 4
+                    [spell2] => 14
+                    [level] => 30
+                    [ipEarned] => 65
+                    [createDate] => 1404447132589
+                    [fellowPlayers] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [summonerId] => 50484748
+                                    [teamId] => 100
+                                    [championId] => 91
+                                )
+
+                            [1] => Array
+                                (
+                                    [summonerId] => 43372049
+                                    [teamId] => 100
+                                    [championId] => 157
+                                )
+
+                            [2] => Array
+                                (
+                                    [summonerId] => 32944291
+                                    [teamId] => 200
+                                    [championId] => 90
+                                )
+
+                            [3] => Array
+                                (
+                                    [summonerId] => 52875213
+                                    [teamId] => 200
+                                    [championId] => 80
+                                )
+
+                            [4] => Array
+                                (
+                                    [summonerId] => 52885897
+                                    [teamId] => 100
+                                    [championId] => 53
+                                )
+
+                            [5] => Array
+                                (
+                                    [summonerId] => 51052567
+                                    [teamId] => 100
+                                    [championId] => 19
+                                )
+
+                            [6] => Array
+                                (
+                                    [summonerId] => 51810839
+                                    [teamId] => 200
+                                    [championId] => 236
+                                )
+
+                            [7] => Array
+                                (
+                                    [summonerId] => 47536401
+                                    [teamId] => 100
+                                    [championId] => 114
+                                )
+
+                            [8] => Array
+                                (
+                                    [summonerId] => 40389791
+                                    [teamId] => 200
+                                    [championId] => 238
+                                )
+
+                        )
+
+                    [stats] => Array
+                        (
+                            [level] => 16
+                            [goldEarned] => 11173
+                            [numDeaths] => 9
+                            [minionsKilled] => 69
+                            [championsKilled] => 7
+                            [goldSpent] => 11510
+                            [totalDamageDealt] => 67504
+                            [totalDamageTaken] => 33490
+                            [killingSprees] => 1
+                            [largestKillingSpree] => 3
+                            [team] => 200
+                            [win] => 
+                            [neutralMinionsKilled] => 5
+                            [largestMultiKill] => 1
+                            [physicalDamageDealtPlayer] => 17475
+                            [magicDamageDealtPlayer] => 48843
+                            [physicalDamageTaken] => 27598
+                            [magicDamageTaken] => 5038
+                            [largestCriticalStrike] => 171
+                            [timePlayed] => 2151
+                            [totalHeal] => 7666
+                            [totalUnitsHealed] => 5
+                            [assists] => 14
+                            [item0] => 1018
+                            [item1] => 3089
+                            [item2] => 3020
+                            [item3] => 2049
+                            [item4] => 3115
+                            [item5] => 1056
+                            [item6] => 3341
+                            [magicDamageDealtToChampions] => 11864
+                            [physicalDamageDealtToChampions] => 3364
+                            [totalDamageDealtToChampions] => 16115
+                            [trueDamageDealtPlayer] => 1186
+                            [trueDamageDealtToChampions] => 886
+                            [trueDamageTaken] => 854
+                            [wardPlaced] => 16
+                            [neutralMinionsKilledEnemyJungle] => 2
+                            [neutralMinionsKilledYourJungle] => 3
+                            [totalTimeCrowdControlDealt] => 260
+                        )
+
+                )
+
+        )
+
+)
